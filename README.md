@@ -6,6 +6,9 @@ A 1-to-1 audio/video calling application built with Flutter, developed as part o
 ---
 # Demo video: https://github.com/user-attachments/assets/654182ec-e7c4-4a89-a695-12ab7d236049
 
+## Download
+[Download APK (v1.0.0)](https://github.com/vishalgangwar8218-creator/ConnectCall/releases/download/v1.0.0/app-release.apk)
+
 ## Project Description
 
 ConnectCall is a functional 1-to-1 calling app that lets users sign up, view a live list of contacts, and place/receive real audio and video calls — complete with mute, camera toggle, camera switching, call accept/reject, and a persistent call history. It is built to demonstrate real Flutter development: UI, navigation, state management, backend integration, and real-time communication — not just a static UI prototype.
