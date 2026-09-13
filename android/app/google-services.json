@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "688526544940",
+    "project_id": "connectcall-faf16",
+    "storage_bucket": "connectcall-faf16.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688526544940:android:38c7f64207a9a473038189",
+        "android_client_info": {
+          "package_name": "com.example.connect_call"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE4xjSqznLTdFfLbGk3kNzEGL1qDxqZus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
